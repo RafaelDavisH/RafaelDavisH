@@ -11,7 +11,6 @@ One of my key accomplishments was developing an efficient workflow system that u
 As of May 2023, I have also taken on the exciting task of creating a new podcast for freeCodeCamp, entirely in Spanish. Alongside my leadership responsibilities, I have actively contributed to crafting prototype projects for updating certifications in the core curriculum.
 
 * 🌍  I'm based in 🌎
-* 🖥️  See my portfolio at [Personal Site](http://rafaeldavis.dev)
 * ✉️  You can contact me at [rafael@freeCodeCamp.org](mailto:rafael@freeCodeCamp.org)
 * 🚀  I'm currently working on [Music Player Prototype](http://7fy49b.csb.app/)
 * 🧠  I'm learning React and Astro
