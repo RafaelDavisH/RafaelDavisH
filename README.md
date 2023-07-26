@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Spanish Translations Leader at @freeCodeCamp
 --------------------------------------------------------------
 
-I am a web developer with over three years of experience, and I have been an essential part of the freeCodeCamp community. My main focus has been leading the Spanish translations initiative, where I oversee a team of dedicated contributors. 
+I am a web developer with over three years of experience. During the initial stages of my career, freeCodeCamp played an important role in my professional growth. My main focus has been leading the Spanish translations initiative, where I oversee a team of dedicated contributors. 
 
 One of my key accomplishments was developing an efficient workflow system that utilized Google Forms, Google Sheets, Gmail, and Trello. This system facilitated the translation of hundreds of freeCodeCamp's top English tutorials into Spanish. Moreover, it played a crucial role in onboarding more than 20 world language communities, enabling them to translate the curriculum and tutorials into their respective languages. 
 
-As of May 2023, I have also taken on the exciting task of creating a new podcast for freeCodeCamp, entirely in Spanish. Alongside my leadership responsibilities, I have actively contributed to crafting prototype projects for updating certifications in the core curriculum.
+As of May 2023, I have enthusiastically embraced the challenge of developing a new podcast for freeCodeCamp, exclusively in Spanish. In addition to my leadership role, I have been actively involved in creating prototype projects to update the JavaScript certification within the core curriculum.
 
 * 🌍  I'm based in 🌎
 * ✉️  You can contact me at [rafael@freeCodeCamp.org](mailto:rafael@freeCodeCamp.org)
