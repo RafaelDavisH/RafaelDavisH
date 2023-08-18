@@ -4,16 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Spanish Translations Leader at @freeCodeCamp
 --------------------------------------------------------------
 
-I am a web developer with over three years of experience. During the initial stages of my career, freeCodeCamp played an important role in my professional growth. My main focus has been leading the Spanish translations initiative, where I oversee a team of dedicated contributors. 
+I am a web developer with over three years of experience. I'm leading the Spanish translations initiative, where I oversee a team of dedicated contributors. The translations are focused on freeCodeCamp's core curriculum and top english articles/tutorials. 
 
-One of my key accomplishments was developing an efficient workflow system that utilized Google Forms, Google Sheets, Gmail, and Trello. This system facilitated the translation of hundreds of freeCodeCamp's top English tutorials into Spanish. Moreover, it played a crucial role in onboarding more than 20 world language communities, enabling them to translate the curriculum and tutorials into their respective languages. 
+One key accomplishment was developing an efficient workflow system that utilized Google Forms, Google Sheets, Gmail, and Trello. This system helped smooth with the translation of hundreds of freeCodeCamp's top English tutorials into Spanish. It also, played a important role in onboarding more than 20 world language communities, enabling them to translate the curriculum and tutorials into their respective languages. 
 
-As of May 2023, I have enthusiastically embraced the challenge of developing a new podcast for freeCodeCamp, exclusively in Spanish. In addition to my leadership role, I have been actively involved in creating prototype projects to update the JavaScript certification within the core curriculum.
+As of May 2023, I'm excited to take the challenge of developing a new podcast for freeCodeCamp, exclusively in Spanish. Occasionally, I have helped in creating prototype projects to update the JavaScript certification within the core curriculum. One of them is a Music Player app.
 
-* 🌍  I'm based in 🌎
 * ✉️  You can contact me at [rafael@freeCodeCamp.org](mailto:rafael@freeCodeCamp.org)
 * 🚀  I'm currently working on [Music Player Prototype](http://7fy49b.csb.app/)
-* 🧠  I'm learning React and Astro
+* 🧠  I'm learning React and experimenting with Astro
 * ⚡  Love to play drums 🥁 and planning to learn guitar 🎸
 
 <a href="https://www.twitter.com/rafaeldavish" target="_blank" rel="noreferrer"><img
